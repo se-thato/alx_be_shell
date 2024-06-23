@@ -1,3 +1,4 @@
 #!/bin/bash
 su betty
-betty@ubuntu:/tmp/h -1 0-iam_betty
+betty@ubuntu:/tmp/h$ -1 0-iam_betty/ wc -c
+betty@ubuntu:/tmp/h$
