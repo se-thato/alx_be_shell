@@ -1,0 +1,6 @@
+#!/bin/bash
+su betty
+betty@ubuntu:/tmp/h$ ./1-who_am_i
+betty
+betty@ubuntu:/tmp/h$
+root 
