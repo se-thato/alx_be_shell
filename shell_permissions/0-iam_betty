@@ -1,4 +1,4 @@
 #!/bin/bash
 su betty
 0-iam_betty contains 4, it should be 2
-betty@tmp
+betty@tmp.
