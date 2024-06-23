@@ -2,4 +2,4 @@
 su betty
 betty@ubuntu:/tmp/h$ tail -1 0-iam_betty/ wc -c
 9
-betty@ubuntu:/tmp/h$
+betty@tmp
